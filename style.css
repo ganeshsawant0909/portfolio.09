@@ -1,0 +1,24 @@
+
+#background{
+    border: 10px solid black;
+    background-color: black;
+    margin: 0px 400px;
+
+}
+#image{
+    border: 10px solid gold;
+    margin: 20px;
+}
+p{
+    color: white;
+    text-align:center ;
+    }
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+div[background]{
+    width: 1000px;
+    height: 1000px;
+}
